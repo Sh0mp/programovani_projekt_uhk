@@ -1,0 +1,21 @@
+[ {
+  "name" : "Donut",
+  "quantity" : 218,
+  "price" : 25.0,
+  "id" : 3
+}, {
+  "name" : "Houska",
+  "quantity" : 0,
+  "price" : 10.0,
+  "id" : 4
+}, {
+  "name" : "Rohlík",
+  "quantity" : 30,
+  "price" : 3.5,
+  "id" : 5
+}, {
+  "name" : "neco",
+  "quantity" : 5,
+  "price" : 12.0,
+  "id" : 6
+} ]
